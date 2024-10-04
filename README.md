@@ -24,6 +24,6 @@ I plan to share more of them here.
 
 ### More links
 
-* [Personal Blog](https://theleaplog.com/thinking-about-success/)
+* [Personal Blog](https://theleaplog.com)
 * [X](https://x.com/m1_10sz)
 * [LinkedIn](https://www.linkedin.com/in/milosz-smolka/)
