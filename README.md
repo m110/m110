@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**m110/m110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Miłosz, and I enjoy building things.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Technical Writing](https://threedots.tech/)
+* [Watermill](https://github.com/ThreeDotsLabs/watermill)
+* [Hands-on Go trainings](https://threedots.tech/learn/)
+
+### Learning Materials
+
+* [Wild Workouts](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
+* [Go Web App Anti-Patterns](https://github.com/ThreeDotsLabs/go-web-app-antipatterns)
+
+
+### Games
+
+I enjoy making games with Go and [Ebitengine](https://github.com/hajimehoshi/ebiten). I wrote [a post on making games](https://threedots.tech/post/making-games-in-go/).
+
+At the moment, [airplanes](https://github.com/m110/airplanes) is my most complete open-source game.
+
+I plan to share more of them here.
+
+### More links
+
+* [Personal Blog](https://theleaplog.com/thinking-about-success/)
+* [X](https://x.com/m1_10sz)
+* [LinkedIn](https://www.linkedin.com/in/milosz-smolka/)
