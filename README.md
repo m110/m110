@@ -18,9 +18,14 @@ I'm Miłosz, and I enjoy building things.
 
 I enjoy making games with Go and [Ebitengine](https://github.com/hajimehoshi/ebiten). I wrote [a post on making games](https://threedots.tech/post/making-games-in-go/).
 
-At the moment, [airplanes](https://github.com/m110/airplanes) is my most complete open-source game.
+My games are mostly prototypes and work in progress.
 
-I plan to share more of them here.
+- [A Night in Innsmouth](https://github.com/m110/a-night-in-innsmouth)
+- [Kingdoms](https://github.com/m110/kingdoms)
+- [Witchcraft](https://github.com/m110/witchcraft)
+- [Airplanes](https://github.com/m110/airplanes)
+- [Moonshot RTS](https://github.com/m110/moonshot-rts)
+- [Yatzy](https://github.com/m110/yatzy)
 
 ### More links
 
